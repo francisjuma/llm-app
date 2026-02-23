@@ -85,4 +85,4 @@ If you'd like to make a contribution that needs some more work, just raise your 
   <a href="https://pathway.com/solutions/llm-app">
     <img src="https://img.shields.io/badge/See%20Pathway's%20offering%20for%20AI%20applications-0000FF" alt="See Pathway's offering for AI applications"/>
   </a>
-</p>
+</p> 
